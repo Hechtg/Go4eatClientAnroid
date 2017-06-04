@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "231228455236",
+    "firebase_url": "https://go4eat-21677.firebaseio.com",
+    "project_id": "go4eat-21677",
+    "storage_bucket": "go4eat-21677.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:231228455236:android:f7463e4c292b0c9d",
+        "android_client_info": {
+          "package_name": "com.go4eat.go4eat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "231228455236-aobieggol5igss6vbcvhg1kj2hd5mftt.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDyzQTeeL1rhsI9LLIvhd_Xsp4GDKB-wdA"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
